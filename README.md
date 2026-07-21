@@ -4,7 +4,7 @@ Aplicação web de página única para estudo de conceitos de logística
 e supply chain. 30 questões divididas em três níveis, com feedback
 e explicação imediata a cada resposta.
 
-**Demo:** https://quizz-claudecode-two.vercel.app/
+**Demo:** https://quiz-logistica-supply-chain.vercel.app/
 
 ## Sobre
 
